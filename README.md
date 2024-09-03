@@ -18,7 +18,7 @@ To install and run the port scanner, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/port-scanner.git
+   git clone https://github.com/paresh-kukadiya/PortScanner.git
 
 1. **For Run This Following This Code:**
    ```bash
