@@ -10,7 +10,6 @@ This project is a basic port scanner written in [your programming language]. It 
 
 - Scan a range of ports on a specified host
 - Identify open ports
-- Customizable timeout settings
 - Lightweight and easy to use
 
 ## Installation
