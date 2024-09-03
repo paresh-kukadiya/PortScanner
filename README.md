@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project is a basic port scanner written in Pyhton. It scans a range of ports on a specified host and reports which ports are open. This tool is useful for network administrators and cybersecurity enthusiasts to identify open ports and potential vulnerabilities.
+This project is a basic port scanner written in Python. It scans a range of ports on a specified host and reports which ports are open. This tool is useful for network administrators and cybersecurity enthusiasts to identify open ports and potential vulnerabilities.
 
 ## Features
 
